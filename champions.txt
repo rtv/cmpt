@@ -1,0 +1,106 @@
+Course Champions
+================
+
+(* indicates victim has agreed to champion)
+
+Program Champions
+-----------------
+CS Vaughan (DUP)
+SoSy 
+GIS 
+Phil Schulte
+Business 
+Linguistics Sarkar
+Cogs Popowich
+
+
+CMPT major core
+---------------
+120 Baker *
+125 Cuikerman
+126 Mitchell
+128 Regan
+150 Lou
+MACM101 Bulatov *
+MATH151 Ternsovska
+MATH152 Ternsovska
+
+225 Mori *
+250 Dixon
+275 Lavergne
+MACM201 Hell
+MATH232 Sarkar
+STAT270 Sarkar
+
+300 Shriraman *
+307 Kabanets
+320 Pearce
+354 Pei
+MACM316 Batacharya
+
+COOP Cuikerman
+
+CMPT everything else
+--------------------
+102 Funt
+165 Baker
+401 Fedorova
+432 Shririman
+(lots more here)
+
+Faculty
+-------
+Baker
+Bart
+Berenbrink 
+Bhattacharya
+Bulatov 
+Cameron
+Cukierman
+Dahl
+Delgrande
+Dixon 
+Donaldson
+Drew
+Edgar
+Ergun 
+Ester
+Evans
+Fedorova 
+Fraser
+Funt
+Glässer 
+Gu
+Hadley
+Hafer
+Hamarneh 
+Hefeeda 
+Hell
+Kabanets 
+Khangura 
+Kirkpatrick 
+Krishnamurti 
+Lavergne 
+Li Liestman 
+Liu 
+Luk 
+Mitchell 
+Mori 
+Möller 
+Pearce
+Pei 
+Peters 
+Popowich
+Regan
+Sahinalp 
+Sarkar 
+Schulte 
+Shermer 
+Shriraman 
+Smyth
+Tardos 
+Ternovska 
+Wang
+Wiese 
+Xie
+Zhang
