@@ -35,7 +35,7 @@ STAT270 Sarkar
 300 Shriraman *
 307 Kabanets
 320 Pearce
-354 Pei
+354 Delgrande
 MACM316 Batacharya
 
 COOP Cuikerman
@@ -44,9 +44,21 @@ CMPT everything else
 --------------------
 102 Funt
 165 Baker
+
+310 Hadley 
+361 Zhang
+363 Kirkpatrick
+371 Liu
+376W Liestman
+383 Baker
+
 401 Fedorova
+405 Krishnamurti
+431 Vaughan
 432 Shririman
-(lots more here)
+470 Baker
+
+
 
 Faculty
 -------
