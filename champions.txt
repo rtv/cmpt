@@ -16,49 +16,51 @@ Cogs Popowich
 
 CMPT major core
 ---------------
-120 Baker *
-125 Cuikerman
-126 Mitchell
-128 Regan
-150 Lou
-MACM101 Bulatov *
-MATH151 Ternsovska
-MATH152 Ternsovska
+* 120 Baker
+* 125 Cuikerman
+* 126 Mitchell
+* 128 Regan
+- 150 Lou - refused
+* MACM101 Bulatov
+* MATH151 Ternsovska
+* MATH152 Ternsovska
 
-225 Mori *
-250 Dixon
-275 Lavergne
-MACM201 Hell
-MATH232 Sarkar
-STAT270 Sarkar
+* 225 Mori
+* 250 Dixon
+* 275 Lavergne
+* MACM201 Hell
+- MATH232 Sarkar - refused
+- STAT270 Sarkar - refused
 
-300 Shriraman *
-307 Kabanets
-320 Pearce
-354 Delgrande
-MACM316 Batacharya
+* 300 Shriraman
+  307 Kabanets
+- 320 Hadley - refused -> Schulte?
+* 354 Edgar
+  MACM316 Batacharya
 
-COOP Cuikerman
+  COOP Cuikerman
 
 CMPT everything else
 --------------------
-102 Funt
-165 Baker
+* 102 Funt
+- 165 Baker - too many already for Baker - Lavergne?  Popowich?  Ramesh?  Harinder?
 
-310 Hadley 
-361 Zhang
-363 Kirkpatrick
-371 Liu
-376W Liestman
-383 Baker
+- 310 Hadley - refused - Delgrande?  Donaldson?
+* 361 Zhang
+* 363 Kirkpatrick
+  371 Liu
+* 376W Kirkpatrick
+  379 Sarkar?
+* 383 Baker
 
-401 Fedorova
-405 Krishnamurti
-431 Vaughan
-432 Shririman
-470 Baker
+  401 Fedorova
+  405 Krishnamurti
+* 431 Vaughan
+  432 Shririman
+* 470 Baker
+* 477 Ternovska
 
-
+  MACM300 Hell?  Ternovska?
 
 Faculty
 -------
